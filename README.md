@@ -24,7 +24,7 @@ The **SALE (Simple Agreement for Liquidity Exit)** is an open-source standard de
 * **Administrative Fee:** A standardized $2,500 fee payable to the Company to incentivize fast processing.
 
 ## How to Use This
-1.  **Download** the `SALE_v1.0.docx`.
+1.  **Download** the `SALE.docx`.
 2.  **Fill in the Variables:** Reference Price (e.g., Last 409A), Discount (e.g., 20%), and Admin Fee Payer.
 3.  **Execute:** The Company signs *solely* to confirm the waiver and update the cap table.
 
