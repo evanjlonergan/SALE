@@ -3,7 +3,7 @@ Simple Agreement for Liquidity
 # Project SALE: Simple Agreement for Liquidity Exit
 
 > **Status:** Beta v1.0 (Open for Comment)
-> **License:** MIT License (Open Source)
+> **License:** CC0 1.0 Universal (Public Domain Dedication)
 
 ## The Problem: The "Deep End" Liquidity Crisis
 For venture funds from the 2016–2019 vintages, **65% to 90% of returns remain unmonetized**. 
@@ -29,7 +29,7 @@ The **SALE (Simple Agreement for Liquidity Exit)** is an open-source standard de
 3.  **Execute:** The Company signs *solely* to confirm the waiver and update the cap table.
 
 ## Disclaimer & Attribution
-**Author:** Evan J. Lonergan  
-**Affiliation:** This project was developed by the author in his personal capacity as a contribution to the open-source legal ecosystem. **It is NOT a work product of Michael Best & Friedrich LLP.** No firm resources or proprietary precedents were utilized in its construction.
-
-**Not Legal Advice:** This instrument is provided "as is" for informational and educational purposes. It does not constitute an attorney-client relationship. Parties should consult their own counsel before executing binding agreements.
+**Author:** Evan J. Lonergan
+**Affiliation:** This project was developed by the author in his personal capacity as a contribution to the open-source legal ecosystem. It is NOT a work product of Michael Best & Friedrich LLP. No firm resources or proprietary precedents were utilized in its construction.
+**License:** To the extent possible under law, the author has waived all copyright and related or neighboring rights to the SALE pursuant to the CC0 1.0 Universal Public Domain Dedication. You may copy, modify, and distribute this work, even for commercial purposes, without asking permission.
+**Not Legal Advice:** This instrument is provided "as is" for informational and educational purposes only. It does not constitute legal advice and does not create an attorney-client relationship between the author and any user of this document. The author assumes no responsibility for any consequence of using this instrument. Deal terms should be negotiated based on your specific circumstances, and the documents should be tailored to meet the specific legal and commercial requirements of the contemplated transaction. Parties should consult their own counsel before executing any binding agreement based on this form.
